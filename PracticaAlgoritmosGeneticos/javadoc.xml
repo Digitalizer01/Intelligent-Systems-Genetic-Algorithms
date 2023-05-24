@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Users\---\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\---\.m2\repository\org\knowm\xchart\xchart\3.8.1\xchart-3.8.1.jar;C:\Users\---\.m2\repository\de\rototor\pdfbox\graphics2d\0.32\graphics2d-0.32.jar;C:\Users\---\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\---\.m2\repository\org\apache\pdfbox\pdfbox\2.0.24\pdfbox-2.0.24.jar;C:\Users\---\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\---\.m2\repository\org\apache\pdfbox\fontbox\2.0.24\fontbox-2.0.24.jar" destdir="doc" doctitle="DocumentacionAlgoritmosGeneticos" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="interfaz" source="14" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
